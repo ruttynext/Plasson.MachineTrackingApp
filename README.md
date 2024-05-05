@@ -1,5 +1,5 @@
 Machine Status Tracker
-Overview
+Overview:
 Machine Status Tracker is a Windows Presentation Foundation (WPF) application designed to assist users in managing the status of machines within a manufacturing environment. This application provides features for viewing, adding, editing, and deleting machine statuses, along with basic error handling and notifications.
 
 Features
